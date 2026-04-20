@@ -4,7 +4,7 @@ and yes. theyre just a big .json, in fact vxb has strings like "Load model (.vtb
 and no. v6 does not use hts... ~afaik~
 hts is only used for the auto pitch introduced in v5 that is still available in v6 for std banks
 check for yourself, its on VLC.dll (which im guessing stands for VOCALOID Lua Controller)
-aaaaand if you want to look into parsing these models i believe Func_2c6cd280 in S5API.dll is responsible for it
+aaaaand if you want to look into parsing these models i believe Func_47a12a73 in S5API.dll is responsible for it
 """
 import sys
 import json
